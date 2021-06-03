@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament for the preservation and keeping together for publique use, such books, evidenees [sic], records and writings sequestred or taken by distresse or otherwise as are fit to be so preserved.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22079</idno><idno type="EEBO-CITATION">12109752</idno>
+  <idno type="VID">196922</idno>
+  <idno type="EEBO-PROQUEST">2248548206</idno>
+  
+            <idno type="STC">Wing E1780</idno>
+            <idno type="OCLC">12109752</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196922)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 241:E76, no 9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament for the preservation and keeping together for publique use, such books, evidenees [sic], records and writings sequestred or taken by distresse or otherwise as are fit to be so preserved.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196922:1"/>
+            <p> AN ORDINANCE BY The Lords and Commons Assembled in Parliament, For The Preservation and Keeping toge<g ref="char:EOLhyphen"/>ther for publique Use, such <hi>Books, Evidenees, Records</hi> and <hi>Writings</hi> sequestred or taken by Distresse or otherwise, as are fit to be so Preserved.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>18 Novemb. 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons Assembled in Parlia<g ref="char:EOLhyphen"/>ment that this Ordinance be forthwith Prin<g ref="char:EOLhyphen"/>ted and Published.</p>
+                        <closer>
+                           <signed>Hen. Elsinge Cler. Parl. Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON Printed for <hi>Edw. Husbands,</hi> 1643.</p>
+            <pb facs="tcp:196922:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:196922:2"/>
+            <opener>
+               <dateline>
+                  <date>18 Novemb. 1643.</date>
+               </dateline>
+            </opener>
+            <head>An Ordinance for the Preservation and Keeping together for publique Use, such Bookes, Evidences, Records and Writings, se<g ref="char:EOLhyphen"/>questred or taken by Distresse or other<g ref="char:EOLhyphen"/>wise, as are fit to bee so preserved.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>HEREAS</hi> by the severall Or<g ref="char:EOLhyphen"/>dinances for Sequestrations and others, there have beene, within the Cities of <hi>London</hi> and <hi>Westminster,</hi> sequestred and taken by distresse (among other goods) diverse Manuscripts or written Bookes, proceedings of Courts, evidences of Lands, Rentals, Accompt Bookes, and other kindes of writings and written papers and parchments, as also some whole Libraries, and choice Collections of printed Bookes of seve<g ref="char:EOLhyphen"/>rall Arts and Faculties; the dispersing of which by sale or otherwise, may be much more disad<g ref="char:EOLhyphen"/>vantagious and prejudiciall to the publique (both for the present and to posterity) and also to divers particular persons well affected to
+<pb n="2" facs="tcp:196922:3"/> the Parliament, then the benefit of their Sale can any waies recompence;</p>
+            <p>The Lords and Commons in Parliament Assembled, taking the premises into considera<g ref="char:EOLhyphen"/>tion, doe hereby Ordaine and Command, That no Committees or Committee for Sequestra<g ref="char:EOLhyphen"/>tions or Distresses, in or of either of the places aforesaid, or any officers under them imployed, shall or may make sale of, or otherwise disperse or dispose of any such Manuscripts or written Booke, proceedings of Courts, evidences of Lands, Rentals, Accompt Bookes, or other kinde of writings or written papers or parch<g ref="char:EOLhyphen"/>ments, heretofore Sequestred or taken by Di<g ref="char:EOLhyphen"/>stresse or hereafter to be sequestred or taken by distresse by Authority of any of the said Ordi<g ref="char:EOLhyphen"/>nances, but that they and every of them respe<g ref="char:EOLhyphen"/>ctively, shall from time to time deliver the same into the hands and care of <hi>Algernoun</hi> Earle of <hi>Northumberland, Theophilus</hi> Earle of <hi>Lincoln,</hi> and <hi>William</hi> Lord Viscount <hi>Say</hi> and <hi>Seale, Iohn Selden</hi> Esquire, <hi>Francis Rous</hi> Esq; <hi>Sir Simonds D'Ewes</hi> Knight and Baronet, <hi>Samuel Browne</hi> Esquire, <hi>Edmund Prideaux</hi> Esquire, <hi>Gilbert Millington</hi> Esquire, <hi>Roger Hill</hi> Esquire, <hi>Walter Young</hi> Esquire, Members of the house of Com<g ref="char:EOLhyphen"/>mons, or any <hi>Two</hi> of them, who are to Inven<g ref="char:EOLhyphen"/>tory
+<pb n="3" facs="tcp:196922:3"/> the same, and leave, or put and dispose them in some such safe place or places as they shall thinke fit and convenient for their Custody, there to remaine for such publique or other use, as to the houses of Parliament shall seem most meet and reasonable. And that the said Com<g ref="char:EOLhyphen"/>mittees and Officers respectively shall Deliver all and every such whole Libraries and choice Collections of printed Bookes (heretofore as aforesaid sequestred or taken by distresse, or here<g ref="char:EOLhyphen"/>after to be sequestred or taken by distresse) as the Persons aforenamed or any two of them shall signifie under their hands, and direct to be preserved from sale, and from being otherwise dispersed, and to be kept for publique use, into the hands and care of the said Persons or any <hi>Two</hi> of them, who are likewise to Inventory the same, and Leave or put and dispose them in such safe place or places, as they shall thinke fit and Convenient: there to remaine likewise for such publique or other use, as to the Houses of Parliament shall seeme most meet, and rea<g ref="char:EOLhyphen"/>sonable.</p>
+            <p>Provided neverthelesse, and it is farther hereby Ordained, that both the Printed Books and Manuscripts and all other writings or written Papers or Parchments sequestred or
+<pb n="4" facs="tcp:196922:4"/> taken by distresse, or which may hereafter be sequestred or taken by distresse, or shall be sub<g ref="char:EOLhyphen"/>ject to sequestration or distresse, in any of the foure Innes of Court <hi>(viz.)</hi> The <hi>Inner</hi> and <hi>Middle Temple, Greyes Inne,</hi> and <hi>Lincolnes Inne,</hi> or any other society of Law, shall be In<g ref="char:EOLhyphen"/>ventoried, and lay▪d up in some Covenient Place, or Places in the said Innes of Court respectively, in such sort and according as by the Fellowes of the said severall Innes of Court, or such other society as aforesaid respectively, being Members of the House of Commons, or by any two of the aforesaid Committee appoin<g ref="char:EOLhyphen"/>ted by this Ordinance, shall be directed and Or<g ref="char:EOLhyphen"/>dered, there likewise to remaine for such pub<g ref="char:EOLhyphen"/>lique or other use as to the Houses of Parlia<g ref="char:EOLhyphen"/>ment, shall seeme most meet and reasonable.</p>
+            <p>Provided also that nothing in this Ordi<g ref="char:EOLhyphen"/>nance contained shall be any hinderance, to the Assembly of Divines, or any of that Assembly, but that they or any of them (during the time that Assembly shall usually sit) may use, and be permitted to take with them, for their present use, any of the said Manuscript Bookes, or any Bookes of the said Libraries, or Collections, so that they respectively leave in the place where they take them, a note subscribed by
+<pb n="5" facs="tcp:196922:4"/> them of what they so take, and of the time of such their taking it, and of their promise safely to returne it.</p>
+            <p>And be it further also Ordained by the Au<g ref="char:EOLhyphen"/>thority aforesaid, That all and every the Com<g ref="char:EOLhyphen"/>mittee and Committees of Sequestrations and Distresses or either of them, in all and eve<g ref="char:EOLhyphen"/>ry other place whatsoever respectively, and all and every the Officers, under them imployed respectively shall preserve and keepe safe from sale, dispersion, and destruction, all and every the Evidences of Lands, Rentals, Accompt bookes, proceedings of Courts, and all and every other kinde of written Bookes, Papers, or Parchments, by them respectively sequestred or taken by distresse, or to be sequestred or taken by distresse; and the same shall respectively leave or put, and dispose in some place or places of safe Custody for such Publique or further use, as the Houses of Parliament shall direct or Command. And that all and every the Officers of the Army, and of all and every the Forces raysed by the Authority of the Houses of Par<g ref="char:EOLhyphen"/>liament, and all and every the Souldiers, un<g ref="char:EOLhyphen"/>der them shall respectively upon all occasions and in all places take like care for the preserva<g ref="char:EOLhyphen"/>tion
+<pb n="6" facs="tcp:196922:5"/> of all kindes of Evidences of Lands, Rentals, Accompt Bookes, Proceedings of Courts and all and every other written papers or Parchments that shall or may fall into their Hands or power, that they and every of them may be safely likewise kept as aforesaid, both from sale, or other dispersion of them, as also from Spoile and Destruction.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
